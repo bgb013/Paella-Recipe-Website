@@ -1,0 +1,106 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgba(69, 67, 65, 0.137);
+}
+
+header {
+  background-color: #4b9a20a1;
+  text-align: center;
+  padding: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  border-radius: 15px;
+  color: #fff;
+  width: 1300px;
+  margin: auto;
+}
+
+nav {
+  background-color: #014a2dae;
+  text-align: center;
+  padding: 10px;
+  border-radius: 13px;
+  font-family: 'Times New Roman', Times, serif;
+  width: 800px;
+  margin: auto;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #ffffff;
+  cursor: alias;
+}
+
+main {
+  padding: 4rem;
+  text-align: center;
+  padding-bottom: 5rem;
+  width: 500px;
+  margin: auto;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+footer {
+  background-color: #4b9a20a1;
+  text-align: center;
+  padding: 10px;
+  color: #fff;
+  border-radius: 15px;
+  height: 60px;
+  font-family: 'Times New Roman', Times, serif;
+  width: 1300px;
+  margin: auto;
+}
+#ingredients {
+  border-radius: 90px;
+  background-color: rgba(191, 191, 18, 0.401);
+  padding: 30px;
+  width: 440px;
+  height: 250px;
+  text-align: center;
+  margin: auto;
+  list-style-type: none;
+}
+#box {
+  border: 1px solid rgb(1, 0, 0);
+  border-radius: 11px;
+}
+#paella2 {
+align-self: auto;
+border-image: round;
+border-radius: 5%;
+
+}
+#paellavalenciana {
+  background-color: rgb(180, 88, 88);
+  border-radius: 80px;
+  width: 200px;
+  margin: auto;
+  margin-bottom: 10px;
+  color: #ffffff;
+}
+.instruccions {
+text-align: justify;
+}
+img {
+  border-image: round;
+  border-radius: 10%;
+}
+#button{
+  background-color: #f9f9f9;
+  border-radius: 25%;
+  color: rgb(10, 2, 2);
+  padding: 2px 4px;
+  text-decoration: none;
+  cursor: wait;
+}
